@@ -1,17 +1,45 @@
-theme: hacked-jekyll
-description: ""
-baseurl: ""
-url: ""
+#theme: minimal-mistakes-jekyll
+remote_theme: "mattvh/jekyllthemes"
 
-lowercase: true
-color_bg: var(--oc-gray-9)
-color_punct: var(--oc-green-9)
-color_keyval: var(--oc-green-4)
-color_hover: var(--oc-green-5)
-show_quotes: true
-show_commas: true
-target: "_self"
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-remote-theme 
+  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-paginate
+
+title: Franpage
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+    # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  members:
+    output: true
+
+
+
+# número de posts por página
+paginate: 2
+paginate_path: /blog/page:num/
+
+
+
+minima:
+  skin: dark
+
+name: Francisco GuiGue
