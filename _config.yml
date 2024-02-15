@@ -1,4 +1,5 @@
 # Site Specific Configuration
+theme: 
 name: LightSpeed
 description: A simple Jekyll theme
 url: https://example.com
