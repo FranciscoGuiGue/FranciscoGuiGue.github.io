@@ -1,9 +1,9 @@
 ---
-title: members
+title: Madres
 
 ---
 
-# Members
+# Madres
 
 
 {% for member in site.members %}
