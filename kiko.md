@@ -4,17 +4,17 @@ title: tabla
 
 ---
 
-
 |---
-| Alineado predeterminado | Alineado a la izquierda | Alineado al centro | Alineado a la derecha
+| Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
-| Primera parte del cuerpo | Segunda celda | Tercera celda | Cuarta celda
-| Segunda línea | foo | **strong** | baz
-| Tercera línea | quux | baz | bar
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
 |---
-| 
-| 
-|
+| Second body
+| 2 line
 |===
+| Footer row 
+
 
 
