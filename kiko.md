@@ -14,7 +14,7 @@ title: tabla
 | griezman
 | arbeloa
 |===
-| Footer row 
+
 
 
 
