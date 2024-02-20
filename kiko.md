@@ -5,7 +5,7 @@ title: tabla
 ---
 
 |---
-| Default aligned | Left aligned | Center aligned | Right aligned
+| Futbolistas | goles | asistencias | titulos
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
 | Second line |foo | **strong** | baz
