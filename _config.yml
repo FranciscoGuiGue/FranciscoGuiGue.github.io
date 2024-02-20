@@ -1,7 +1,6 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "daviddarnes/alembic@main"
 
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-remote-theme 
