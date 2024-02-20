@@ -1,0 +1,10 @@
+[
+    { "nombre": "la del delegado", "edad": 45, "sexo": "si" },
+    { "nombre": "la del capo", "edad": 32, "sexo": "no" },
+    { "nombre": "la de laura", "edad": 54, "sexo": "no" },
+    { "nombre": "la de alvaro", "edad": 45, "sexo": "no" },
+    { "nombre": "la de brian", "edad": 56, "sexo": "no" },
+    { "nombre": "la de julian", "edad": 55, "sexo": "no" },
+    { "nombre": "la de diego", "edad": 34, "sexo": "no" },
+    { "nombre": "la del profe", "edad": 78, "sexo": "no"}
+]
