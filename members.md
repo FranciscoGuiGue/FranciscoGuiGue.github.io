@@ -13,6 +13,6 @@ title: members
 {% endfor %}
 
 
-{% for persona in site.data.personas %}
+{% for madres in site.data.madres %}
   ## {{ madres.nombre }} - {{ madre.edad }}
 {% endfor %}
