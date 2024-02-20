@@ -14,5 +14,5 @@ title: Madres
 
 
 {% for madre in site.data.madres %}
-  ## {{ madres.nombre }} - {{ madres.edad }}
+  ## {{ madres.nombre }} - {{ madre.edad }}
 {% endfor %}
