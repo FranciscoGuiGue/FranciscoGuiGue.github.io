@@ -16,5 +16,5 @@ title: tabla
 | 
 |
 |===
-| el pie
+
 
