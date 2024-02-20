@@ -3,15 +3,12 @@ title: about
 permalink: /juju
 
 
-date: 2024-10-10
+date: 2024-02-20
 author: juan
-tags: juegos,mierda
+tags: madres
 
 ---
 
 # TITULO
-
-Contenido del about
-
-hola danielo
+ esto es algo 
 
