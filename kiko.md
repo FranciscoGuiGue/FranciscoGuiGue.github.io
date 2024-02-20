@@ -7,12 +7,12 @@ title: tabla
 |---
 | Futbolistas | goles | asistencias | titulos
 |-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
+| messi | 900| 800 | 50
+| cristiano |901 | **3** | 80
+| hazard |100 | 200 | 5
 |---
-| Second body
-| 2 line
+| griezman
+| arbeloa
 |===
 | Footer row 
 
